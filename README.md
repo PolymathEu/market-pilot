@@ -17,7 +17,7 @@ MarketPilot helps business owners understand their business and market, diagnose
 
 Extract the `market-pilot` Skill folder from the ZIP into `.claude/skills/market-pilot/` in a project or `~/.claude/skills/market-pilot/` for personal use. Claude.ai, Claude Code, and the Claude API manage custom Skills separately; installing on one surface does not sync them to another.
 
-No Python installation, MarketPilot scripts, terminal configuration, or analytics infrastructure is required. If Business Context is missing, inaccessible, or empty, business-specific work stops at the exact gate response. Supporting reports remain optional and task-dependent.
+No Python installation, MarketPilot scripts, terminal configuration, or analytics infrastructure is required. If Business Context is missing, inaccessible, or empty, MarketPilot does not invent business-specific analysis and offers the existing Business Context template. Supporting reports remain optional and task-dependent.
 
 Supporting reports are optional and task-dependent. If a recommendation requires unavailable data, MarketPilot names the specific gap and explains its effect rather than inventing results.
 
