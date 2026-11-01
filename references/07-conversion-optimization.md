@@ -13,6 +13,7 @@
 - Lead generation process, if lead-gen rather than direct purchase
 
 ## Hypothesis-driven recommendations
+Calculate a stage-to-stage conversion rate only when numerator and denominator represent the same starting cohort, observation window, event definition, and unit (for example, unique users rather than a mix of users and sessions). Verify that stage volumes cover the same period and cohort before comparing them. If alignment is unknown, report the counts as unaligned and do not infer a conversion rate or drop-off location.
 
 Every CRO recommendation should take this shape: "Because [evidence or reasonable inference], we believe [specific friction point] is costing conversions. Test: [specific change]. Measure: [specific metric]." Vague advice like "improve your landing page" is not useful; "the hero section leads with a feature list instead of the core outcome, which likely costs clarity in the first five seconds, test leading with the primary outcome statement instead" is useful.
 

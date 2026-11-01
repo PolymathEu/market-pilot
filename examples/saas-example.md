@@ -8,36 +8,36 @@ Illustrative only, showing the expected tone, structure, and length for a compre
 
 ## Business Diagnosis
 
-Growth is being throttled less by acquisition and more by retention. A 6% monthly churn rate means roughly half of new customers are gone within a year, which caps compounding growth regardless of how much new signup volume improves. The business has found a working niche (agencies) but hasn't yet made the product sticky enough to hold onto it.
+The self-reported 6% monthly churn is a risk signal, not enough to establish retention as the primary growth constraint: the context has no cohort definition or retention data. Acquisition, activation, and retention cannot yet be compared. The first decision is to validate those patterns using consistent customer cohorts before reallocating growth effort.
 
 ## Marketing Opportunity Radar
 
-Biggest Growth Opportunity: narrowing positioning specifically to agencies (rather than "project management" broadly) in all external messaging, since that's where the real traction is.
+Biggest Growth Opportunity: HYPOTHESIS. Sharper agency positioning may improve relevance, but the context provides no segment-level performance to establish that agencies are the strongest opportunity. Test the message with qualified prospects before treating it as the growth lever.
 
-Biggest Marketing Weakness: churn this high suggests activation or onboarding is likely the real leak, not the marketing funnel; no onboarding data is available to confirm this, so it's the first thing worth instrumenting.
+Biggest Marketing Weakness: DATA UNAVAILABLE. Current evidence does not identify a single dominant weakness. A retention or activation issue is a HYPOTHESIS to test against acquisition and funnel evidence.
 
-Quickest Win: current SEO content targets generic project management terms; retargeting it toward agency-specific search intent would likely improve both traffic quality and conversion with no new content spend.
+Quickest Win: audit existing SEO pages for agency-specific intent, then test one focused update. Any improvement in qualified traffic or conversion is a HYPOTHESIS until measured.
 
-Biggest Competitive Advantage: agency-specific workflow understanding that generalist tools don't have, visible in how the product is already built, though this isn't yet reflected in the marketing.
+Biggest Competitive Advantage: DATA UNAVAILABLE. The context does not include feature or customer evidence establishing a defensible advantage over generalist tools.
 
-Highest Priority Action: investigate the activation and first 30-day experience before investing further in acquisition, since current spend is likely filling a leaking bucket.
+Highest Priority Action: define the customer cohorts and compare acquisition, activation, and retention over the same observation windows before deciding whether to shift effort from acquisition.
 
 ## Recommended Strategy
 
-1. Reposition all external messaging around agencies specifically, not generic project management. This is a one-week messaging change with no product work required.
-2. Instrument and review the first 30 days of the customer lifecycle to find where churn concentrates, since no cohort data currently exists to confirm the hypothesis above.
-3. Shift existing SEO content toward agency-specific terms and use cases rather than broad category terms.
+1. Test agency-specific positioning with qualified prospects before changing all messaging; current context identifies agencies as the target but provides no segment-level evidence to establish the best positioning.
+2. Instrument and review customer acquisition, activation, and retention in consistently defined cohorts; current data cannot show where churn concentrates.
+3. Audit one existing SEO page for agency-specific search intent and measure qualified actions before expanding the change.
 
 ## Action Plan
 
-First: rewrite homepage and signup messaging around agencies this week, no product changes needed.
-Second: pull whatever account-level data exists (signup date, last active date, cancellation date) to build a rough cohort view within the next two weeks.
-Third: once the leak point is identified, design one focused onboarding fix rather than a broad retention campaign.
+First: test one agency-specific message with qualified prospects before rewriting the homepage or signup flow.
+Second: define the customer and churn events, then assemble comparable acquisition-month cohorts with consistent observation windows.
+Third: audit one existing SEO page for agency-specific intent and measure qualified downstream actions before expanding the change.
 
 ## Success Metrics
 
-Monthly churn rate, agency-specific signup conversion rate, 30-day activation rate (percentage reaching first real usage milestone).
+Retention by defined acquisition cohort and observation window, agency-specific qualified conversion, and activation by the same cohort. Set no targets until comparable baselines exist.
 
 ## Final Verdict
 
-Don't spend more on acquisition until the churn leak is understood. A smaller, stickier customer base beats a larger, leakier one at this stage.
+The reported churn merits investigation, but the available evidence does not justify pausing acquisition or naming retention as the main constraint. First establish comparable cohort and funnel measures, then prioritize the constraint they support.

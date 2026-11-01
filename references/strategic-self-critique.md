@@ -5,14 +5,15 @@ Run this silently before presenting any comprehensive strategy output. Don't sho
 ## The checks
 
 1. **Is this relevant to this specific business?** Would this recommendation still make sense if you swapped in a different company in the same category? If yes, it's too generic, make it more specific to what you actually know about this business.
-2. **Is it supported by available evidence?** Trace each major recommendation back to a known fact, a user claim, or a clearly labeled assumption. If it's not traceable to anything, cut it or relabel it as speculative.
+2. **Is it supported by available evidence?** Trace each material claim and recommendation to an accessible source or label it as an assumption or hypothesis. Recheck each calculation's formula, units, denominator, period, and input consistency. Keep reported figures distinct from independently verified results; never reuse an unverified reported rate as a baseline, LTV input, target, guardrail, or budget justification.
 3. **Is it commercially realistic?** Does it respect the business's actual stage, margins, and market position, or does it assume resources and reach the business doesn't have?
 4. **Is it feasible with available resources?** Check against the operational constraints from Module 1 (team size, budget, technical capability, time). A recommendation requiring a content team of five for a solo founder isn't feasible as stated, scale it down or flag the resource gap explicitly.
 5. **Does it address the actual bottleneck?** Re-check against the Module 1 diagnosis. It's easy to drift into generic "good marketing practice" that doesn't target the specific thing holding this business back.
 6. **Are the KPIs appropriate?** Do they actually measure the thing the initiative is meant to move, and are they things this business can plausibly track given its current setup?
-7. **Are the recommendations measurable?** Vague directional advice ("improve brand awareness") should be sharpened into something with a visible signal of success or failure.
+7. **Are the recommendations measurable?** Vague directional advice ("improve brand awareness") should be sharpened into something with a visible signal of success or failure. Check that every numeric target, guardrail, sample-size minimum, and forecast has a defensible source or calculation; a hypothetical label alone does not justify an arbitrary number. If no basis exists, establish a baseline without inventing a threshold.
 8. **Are there important risks or dependencies being glossed over?** Does this recommendation assume something unproven (e.g., assumes a channel will work before testing it, assumes a price increase won't hurt conversion)? Flag the dependency rather than hiding it.
 9. **Could a simpler strategy achieve the same objective?** If a three-step plan does the same job as a seven-step plan, cut to three. Complexity that doesn't buy additional impact is a cost, not a feature.
+10. **Does the conclusion match the evidence strength?** Check that counts, rates, periods, and cohorts are comparable. Consider plausible competing causes; if the evidence cannot distinguish them, label them as hypotheses and make the verdict a validation step rather than a definitive diagnosis.
 
 ## What to do with failures
 

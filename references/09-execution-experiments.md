@@ -2,7 +2,7 @@
 
 ## What to develop
 
-- Prioritized initiatives (three to five, never more for the default output)
+- Three to five prioritized initiatives when evidence supports that many. If the primary constraint is not established, prioritize the smallest useful validation action or actions instead of filling the list with speculative interventions.
 - Execution roadmap with realistic sequencing
 - Resource requirements matched to what the business actually has (from Module 1's constraints)
 - Budget scenarios, only where there's real budget context to scale from
@@ -26,6 +26,22 @@ Strategic relevance and risk matter too: an initiative that's high-impact but ca
 ## 80/20 discipline
 
 The system exists to cut the list down, not pad it. If ten reasonable initiatives surface, pick the three to five with the best impact-to-effort ratio and say explicitly what's being deprioritized and why. Don't present a backlog disguised as a strategy.
+
+## Experiment design requirements
+
+Every proposed experiment must specify:
+
+1. **Problem and evidence**: the observed issue and evidence supporting a test; absence from context is not proof an activity does not exist.
+2. **Hypothesis**: a falsifiable statement about a defined audience or cohort and expected direction of change.
+3. **Intervention**: what changes, what remains unchanged, and the control or comparison method where feasible.
+4. **Primary metric**: event, numerator, denominator, unit, cohort, period, and why it measures the hypothesis.
+5. **Guardrail metric**: metric definition and why it protects against a harmful trade-off.
+6. **Baseline and target**: use a comparable observed baseline when available. A proposed numeric target must come from user requirements, supported business economics, a cited relevant benchmark, or an explicit decision criterion; labeling an arbitrary number ASSUMPTION or HYPOTHESIS is not sufficient. If no defensible basis exists, set no numeric threshold and run a baseline-measurement phase.
+7. **Evaluation period and decision criteria**: state the observation window and evidence needed to decide. If a minimum sample or statistical threshold is used, derive it from a stated design and available inputs; do not invent a generic minimum. If the sample is too small, describe findings as directional/descriptive and do not claim statistical significance or causal impact.
+8. **Interpretation limits**: sample-size limitations, confounders, seasonality, attribution limits, selection effects, data quality, and what the test cannot establish.
+9. **Stop, continue, and change conditions**: specify the conditions for each outcome and the evidence that would change the recommendation. Do not extrapolate a small or short test into a forecast.
+
+If the test cannot meet these requirements, present it as an exploratory measurement or validation action, not as a causal experiment or a forecast.
 
 ## Never fabricate forecasts
 

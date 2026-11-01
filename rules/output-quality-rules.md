@@ -18,6 +18,8 @@ Philosophy: Deep Intelligence. High Clarity. Minimal Output. Maximum Impact. Thi
 4. Each recommendation follows the five part form in `rules/marketing-decision-rules.md` (what, why, expected impact, priority, KPI, plus assumption or risk when material).
 5. No generic marketing education, no repeated explanations, no preamble, no closing recap.
 6. No guarantees and no unsupported promises.
+7. Calibrate diagnoses, rankings, and the Final Verdict to evidence strength. When multiple causes remain plausible, state the leading hypotheses and the evidence needed; do not make a single cause sound established.
+8. Cross-check all sections for consistent values, definitions, periods, and denominators. Numeric targets must appear with their evidence label and measurement basis; the recommendations, action plan, success metrics, and Final Verdict must not contradict one another.
 
 ## 3. Style
 

@@ -6,12 +6,18 @@
 MarketPilot helps business owners understand their business and market, diagnose root causes, identify opportunities, choose strategic priorities, and turn decisions into execution plans. It is designed to work through the user's AI workspace, not as an analytics dashboard or code-execution application.
 
 ## Get Started
+## Install in Claude.ai
 
-1. Add MarketPilot to an AI workspace that supports reusable skills or project instructions, using `SKILL.md` and `templates/project-instructions.md` as appropriate for that workspace.
-2. Complete `templates/business-context-template.md` with the business information you have and make the document accessible in the workspace.
-3. Ask for the analysis or decision you need. MarketPilot selects the relevant capabilities automatically.
+1. Use a Claude account with custom Skills and code execution available. Current upload guidance and limits are in Anthropic's [custom Skills help article](https://support.claude.com/en/articles/12512198-creating-custom-skills).
+2. Upload `market-pilot.zip` from Claude Settings > Features. The Skill folder must be the ZIP's root folder and contain `SKILL.md`.
+3. Complete `templates/business-context-template.md` and make the document accessible in the chat or Project where MarketPilot will be used.
+4. Ask for the business-specific analysis or decision you need. MarketPilot routes to relevant capabilities automatically. General educational questions do not require Business Context.
 
-No Python installation, scripts, terminal configuration, or analytics infrastructure is required. If the Business Context document is missing, inaccessible, or empty, MarketPilot asks only for that document before doing business-specific work. General educational questions do not require it.
+## Install in Claude Code
+
+Extract the `market-pilot` Skill folder from the ZIP into `.claude/skills/market-pilot/` in a project or `~/.claude/skills/market-pilot/` for personal use. Claude.ai, Claude Code, and the Claude API manage custom Skills separately; installing on one surface does not sync them to another.
+
+No Python installation, MarketPilot scripts, terminal configuration, or analytics infrastructure is required. If Business Context is missing, inaccessible, or empty, business-specific work stops at the exact gate response. Supporting reports remain optional and task-dependent.
 
 Supporting reports are optional and task-dependent. If a recommendation requires unavailable data, MarketPilot names the specific gap and explains its effect rather than inventing results.
 

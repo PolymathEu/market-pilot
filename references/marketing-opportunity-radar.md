@@ -1,18 +1,18 @@
 # Marketing Opportunity Radar
 
-This is the signature feature of the product. It forces five specific, prioritized findings instead of a diffuse list of observations. Build it after the diagnosis and module analysis, not as a first pass.
+This is the signature feature of the product. It organizes findings into five useful categories after diagnosis and module analysis, without forcing a certainty or ranking the evidence does not support. If no single opportunity or weakness is established, say so and make validation the priority.
 
 ## The five findings
 
-1. **Biggest Growth Opportunity**: the single highest-leverage thing this business isn't doing yet (or isn't doing well) that could meaningfully move growth. Not a list, one thing.
-2. **Biggest Marketing Weakness**: the most damaging gap or mistake currently happening. State it directly and professionally, grounded in evidence (see Strategic Self-Critique for how to critique the strategy without attacking the person).
-3. **Quickest Win**: something that could ship in days, not months, and would produce a visible, if modest, improvement. This should be genuinely quick, not a reframed version of the big opportunity.
+1. **Biggest Growth Opportunity**: the best-supported high-leverage opportunity. State it as a hypothesis if evidence is incomplete; if candidates cannot be distinguished, identify the evidence needed rather than inventing a winner.
+2. **Biggest Marketing Weakness**: the most damaging evidence-supported gap. State it directly and professionally; if the available evidence cannot establish one, say it is not yet identifiable (see Strategic Self-Critique).
+3. **Quickest Win**: a change that could ship in days, has a plausible link to a measurable outcome, and can be evaluated quickly. Describe the outcome as a hypothesis until measured.
 4. **Biggest Competitive Advantage**: a real, defensible edge this business has right now, not an aspirational one. If none is evident from the context, say that honestly rather than manufacturing one.
-5. **Highest Priority Action**: the single thing to do first, synthesizing the above. This often overlaps with either the Biggest Growth Opportunity or the Quickest Win, but should be explicit about the "do this first" call.
+5. **Highest Priority Action**: the best-supported next action. When evidence cannot justify a strategic intervention, prioritize the measurement or test that will distinguish the competing explanations.
 
 ## Prioritization logic
 
-Rank candidate findings by: expected impact on the actual bottleneck (from Module 1), strength of evidence behind it, and feasibility given the business's real resources. A theoretically huge opportunity the business has no ability to execute isn't the Highest Priority Action; something smaller but achievable usually is.
+Rank candidate findings by expected impact on a supported bottleneck, evidence strength, and feasibility given real resources. A theoretically large opportunity the business cannot execute is not the highest priority. If evidence does not establish a bottleneck or distinguish candidates, lower confidence and prioritize validation instead of implying a proven cause.
 
 ## Discipline
 

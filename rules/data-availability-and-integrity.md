@@ -72,6 +72,8 @@ Never present an assumption or hypothesis as a fact.
 
 Before any substantial business analysis, first confirm that the required Business Context document is accessible and non-empty. If it is not, stop and use the exact response in `SKILL.md`; do not perform business-specific analysis. Then check which supporting documents below are accessible. If one is missing and its absence affects the analysis, name it once using the appropriate status label.
 
+The absence of a process, system, campaign, channel, or activity from Business Context is not proof that it does not exist. Say "not documented in the available context" and identify what evidence would be needed to establish its presence or absence.
+
 Documents to check when relevant:
 
 - Business Context (overview, model, stage, objectives)

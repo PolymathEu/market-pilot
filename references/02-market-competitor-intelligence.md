@@ -22,6 +22,8 @@ This is the module where it's most tempting to fabricate. Don't.
 
 ## Differentiation test
 
+Do not claim that generic positioning caused high acquisition costs, weak organic growth, or poor conversion without evidence connecting the positioning to those outcomes. Distinguish documented positioning from interpretation and testable causal hypotheses. Do not claim a unique or defensible competitive advantage without adequate current competitor research; if competitor evidence is unavailable, state that differentiation and uniqueness are unverified.
+
 A claimed differentiator only counts if it would actually change a customer's decision. Run every proposed differentiator through this: "if a competitor said the exact same sentence, would a customer notice or care?" Generic claims ("great customer service," "easy to use," "affordable") usually fail this test and should be flagged as weak rather than presented as real positioning.
 
 ## Market gaps

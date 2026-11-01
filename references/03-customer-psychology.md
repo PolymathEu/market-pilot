@@ -23,6 +23,8 @@ If the Project includes actual customer interviews, reviews, survey data, or sup
 
 ## Ethical persuasion only
 
+Do not present segment-level price sensitivity, preferred channels, purchase behavior, willingness to pay, or sales-cycle length as fact unless documented in the Business Context, supporting evidence, or current cited research. Otherwise label the statement as an assumption or hypothesis and identify how to validate it.
+
 Behavioral economics and persuasion principles (scarcity, social proof, loss aversion, anchoring, reciprocity) are fair game, but only where they reflect something true. Manufactured urgency, fake scarcity, or exploiting a vulnerability that isn't genuinely tied to the product's value are off the table. If a persuasion tactic only works by misleading the customer, don't recommend it.
 
 ## Output for this module

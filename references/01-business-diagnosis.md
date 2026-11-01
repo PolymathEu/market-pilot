@@ -25,10 +25,14 @@ Most businesses that ask for "marketing help" actually have one of a few underly
 
 State which of these (or combination) seems to be happening, and why, using the evidence available. If the evidence doesn't clearly point to one, say that too rather than forcing a verdict.
 
+For customer growth, distinguish counts from rates. Net additions for a period are new customers minus churned customers in that same period (with any reactivations or other adjustments stated separately). Positive net additions indicate the customer count grew by that amount, but do not by themselves establish a percentage growth rate or prove that acquisition is only replacing churn. Calculate customer growth rate only from comparable beginning- and end-of-period active-customer counts, using the beginning count as denominator. If the beginning count or comparable dates are missing, mark the rate DATA UNAVAILABLE.
+
+Do not choose retention as the primary bottleneck from a churn figure alone when its denominator, period, cohort maturity, or acquisition comparison is unclear. Compare plausible constraints (for example acquisition, activation, retention, and measurement quality); if available evidence cannot distinguish them, report competing hypotheses and the specific evidence needed rather than asserting one root cause.
+
 ## Root cause, not surface symptom
 
 If the user says "we need more leads," don't take the request at face value. Ask (internally, then reflect in the diagnosis): more leads of what quality, converting at what rate, from what channel, compared to what cost. "More leads" is almost never actually the bottleneck; something upstream usually is (unclear offer, wrong channel, weak conversion).
 
 ## Output for this module
 
-In the final brief this becomes 2-4 sentences: what stage the business is at, what's actually limiting growth, and why that's the right read of the evidence. Save the detailed reasoning for yourself; the user needs the conclusion and enough rationale to trust it, not the full analysis trail.
+In the final brief, state the best-supported constraint and why. Separate confirmed findings, plausible hypotheses, unresolved questions, and validation actions when the root cause is not established. Do not select retention, acquisition, activation, or positioning as the primary bottleneck unless comparable evidence distinguishes it from the alternatives. Save detailed reasoning for yourself; give the user the conclusion and enough rationale to trust its confidence level.
